@@ -15,4 +15,4 @@ and the level of contamination as:
 1 for intermidiate
 2 for high
 in the training data set 
-I used svm for this task and got a test F1 score of 0.7857
+I used svm for this task and got a test F1 score of 0.7157
